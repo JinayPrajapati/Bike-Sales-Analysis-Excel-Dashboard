@@ -31,7 +31,7 @@ The objective is to identify patterns in bike purchases based on customer demogr
 
 ## 📈 Dashboard
 
-![Bike Sales Dashboard](./Screenshots/dashboard.png)
+![Bike Sales Dashboard](Screenshots/dashboard.png)
 
 ## 🔍 Key Insights
 
