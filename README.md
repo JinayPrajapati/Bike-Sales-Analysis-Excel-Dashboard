@@ -31,7 +31,7 @@ The objective is to identify patterns in bike purchases based on customer demogr
 
 ## 📈 Dashboard
 
-[![Bike Sales Dashboard](Screenshots/dashboard.png)](https://github.com/JinayPrajapati/Bike-Sales-Analysis-Excel-Dashboard/blob/514a5533c32d3f196fc3b1d5a5114f07e0e438b1/Bike-Sales-Analysis-Excel-Dashboard/Screenshots/dashboard.png)
+![Bike Sales Dashboard](Bike-Sales-Analysis-Excel-Dashboard/Screenshots/dashboard.png)
 
 ## 🔍 Key Insights
 
